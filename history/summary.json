@@ -4,9 +4,9 @@
     "url": "https://www.teammax.cc",
     "icon": "https://favicons.githubusercontent.com/www.teammax.cc",
     "slug": "tmx-cm",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 2744,
     "timeMonth": 3013,
     "timeYear": 3013,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-27": 0
+    }
   },
   {
     "name": "tmx-crm",
