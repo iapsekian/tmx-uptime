@@ -12,7 +12,7 @@
     "uptimeYear": "99.79%",
     "time": 2920,
     "timeDay": 2276,
-    "timeWeek": 4399,
+    "timeWeek": 3764,
     "timeMonth": 4569,
     "timeYear": 2920,
     "dailyMinutesDown": {
@@ -38,7 +38,7 @@
     "url": "https://crm.teammax.cc",
     "icon": "https://favicons.githubusercontent.com/crm.teammax.cc",
     "slug": "tmx-crm",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -50,6 +50,7 @@
     "timeMonth": 477,
     "timeYear": 494,
     "dailyMinutesDown": {
+      "2021-09-09": 0,
       "2021-07-31": 16
     }
   }
