@@ -4,7 +4,7 @@
     "url": "https://www.teammax.cc",
     "icon": "https://favicons.githubusercontent.com/www.teammax.cc",
     "slug": "tmx-cm",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 2568,
     "timeYear": 2754,
     "dailyMinutesDown": {
+      "2022-04-19": 0,
       "2022-03-13": 18,
       "2022-03-10": 25,
       "2022-01-16": 17,
