@@ -115,19 +115,19 @@
     "url": "https://crm.teammax.cc",
     "icon": "https://icons.duckduckgo.com/ip3/crm.teammax.cc.ico",
     "slug": "tmx-crm",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "76.79%",
+    "uptimeWeek": "96.68%",
+    "uptimeMonth": "99.24%",
+    "uptimeYear": "99.94%",
     "time": 456,
-    "timeDay": 568,
-    "timeWeek": 1127,
-    "timeMonth": 629,
-    "timeYear": 456,
+    "timeDay": 471,
+    "timeWeek": 1033,
+    "timeMonth": 621,
+    "timeYear": 455,
     "dailyMinutesDown": {
-      "2023-11-30": 11
+      "2023-11-30": 334
     }
   }
 ]
