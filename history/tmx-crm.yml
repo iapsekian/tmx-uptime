@@ -1,7 +1,7 @@
 url: https://crm.teammax.cc
-status: up
-code: 200
-responseTime: 870
-lastUpdated: 2024-03-12T23:06:29.150Z
+status: down
+code: 500
+responseTime: 255
+lastUpdated: 2024-03-13T14:22:19.563Z
 startTime: 2021-01-15T08:05:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
