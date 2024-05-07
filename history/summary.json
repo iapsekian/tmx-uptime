@@ -8,7 +8,7 @@
     "uptime": "85.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "83.57%",
+    "uptimeMonth": "83.79%",
     "uptimeYear": "53.48%",
     "time": 2598,
     "timeDay": 2587,
@@ -211,9 +211,9 @@
     "url": "https://crm.teammax.cc",
     "icon": "https://icons.duckduckgo.com/ip3/crm.teammax.cc.ico",
     "slug": "tmx-crm",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
@@ -223,6 +223,7 @@
     "timeMonth": 423,
     "timeYear": 458,
     "dailyMinutesDown": {
+      "2024-05-07": 0,
       "2024-03-12": 93,
       "2023-11-30": 441
     }
