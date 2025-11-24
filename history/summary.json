@@ -6,17 +6,16 @@
     "slug": "tmx-cm",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "98.06%",
-    "uptimeMonth": "97.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.13%",
+    "uptimeMonth": "97.98%",
     "uptimeYear": "99.47%",
-    "time": 2953,
-    "timeDay": 1549,
-    "timeWeek": 1740,
-    "timeMonth": 1784,
-    "timeYear": 2822,
+    "time": 2952,
+    "timeDay": 1866,
+    "timeWeek": 1796,
+    "timeMonth": 1790,
+    "timeYear": 2823,
     "dailyMinutesDown": {
-      "2025-11-23": 6,
       "2025-11-22": 17,
       "2025-11-21": 93,
       "2025-11-20": 44,
@@ -67,7 +66,8 @@
       "2025-09-17": 48,
       "2025-09-15": 170,
       "2025-09-14": 55,
-      "2025-09-13": 35
+      "2025-09-13": 35,
+      "2025-09-12": 18
     }
   },
   {
@@ -82,10 +82,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 412,
-    "timeDay": 444,
-    "timeWeek": 407,
-    "timeMonth": 398,
-    "timeYear": 406,
+    "timeDay": 376,
+    "timeWeek": 392,
+    "timeMonth": 391,
+    "timeYear": 405,
     "dailyMinutesDown": {
       "2025-03-21": 37,
       "2025-03-20": 6
