@@ -6,17 +6,17 @@
     "slug": "tmx-cm",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "98.20%",
-    "uptimeWeek": "97.32%",
-    "uptimeMonth": "98.02%",
-    "uptimeYear": "99.47%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "97.61%",
+    "uptimeMonth": "98.03%",
+    "uptimeYear": "99.46%",
     "time": 2925,
     "timeDay": 1760,
-    "timeWeek": 1854,
-    "timeMonth": 1819,
+    "timeWeek": 1872,
+    "timeMonth": 1824,
     "timeYear": 2804,
     "dailyMinutesDown": {
-      "2025-11-27": 25,
+      "2025-11-27": 19,
       "2025-11-25": 72,
       "2025-11-24": 19,
       "2025-11-22": 17,
@@ -67,7 +67,8 @@
       "2025-09-19": 96,
       "2025-09-18": 16,
       "2025-09-17": 48,
-      "2025-09-15": 170
+      "2025-09-15": 170,
+      "2025-09-14": 17
     }
   },
   {
@@ -75,9 +76,9 @@
     "url": "https://crm.teammax.cc",
     "icon": "https://icons.duckduckgo.com/ip3/crm.teammax.cc.ico",
     "slug": "tmx-crm",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -87,6 +88,7 @@
     "timeMonth": 389,
     "timeYear": 405,
     "dailyMinutesDown": {
+      "2025-11-27": 0,
       "2025-03-21": 37,
       "2025-03-20": 6
     }
