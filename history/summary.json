@@ -6,16 +6,17 @@
     "slug": "tmx-cm",
     "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "95.87%",
-    "uptimeWeek": "98.03%",
-    "uptimeMonth": "98.28%",
-    "uptimeYear": "99.50%",
-    "time": 2843,
+    "uptimeDay": "88.43%",
+    "uptimeWeek": "96.97%",
+    "uptimeMonth": "98.04%",
+    "uptimeYear": "99.49%",
+    "time": 2841,
     "timeDay": 4618,
     "timeWeek": 3624,
-    "timeMonth": 2615,
-    "timeYear": 2779,
+    "timeMonth": 2608,
+    "timeYear": 2777,
     "dailyMinutesDown": {
+      "2025-12-26": 107,
       "2025-12-25": 60,
       "2025-12-24": 48,
       "2025-12-22": 36,
@@ -70,8 +71,7 @@
       "2025-10-10": 100,
       "2025-10-08": 35,
       "2025-10-04": 16,
-      "2025-09-30": 122,
-      "2025-09-29": 18
+      "2025-09-30": 122
     }
   },
   {
