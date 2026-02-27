@@ -4,17 +4,17 @@
     "url": "https://www.teammax.cc",
     "icon": "https://icons.duckduckgo.com/ip3/www.teammax.cc.ico",
     "slug": "tmx-cm",
-    "status": "up",
-    "uptime": "99.83%",
+    "status": "down",
+    "uptime": "99.84%",
     "uptimeDay": "89.27%",
     "uptimeWeek": "95.59%",
     "uptimeMonth": "93.99%",
-    "uptimeYear": "99.15%",
-    "time": 3006,
-    "timeDay": 3925,
-    "timeWeek": 3667,
-    "timeMonth": 4033,
-    "timeYear": 2985,
+    "uptimeYear": "99.16%",
+    "time": 3005,
+    "timeDay": 3608,
+    "timeWeek": 3600,
+    "timeMonth": 4010,
+    "timeYear": 2984,
     "dailyMinutesDown": {
       "2026-02-27": 154,
       "2026-02-26": 44,
@@ -79,7 +79,7 @@
       "2025-11-30": 22,
       "2025-11-29": 81,
       "2025-11-27": 19,
-      "2025-11-25": 72
+      "2025-11-25": 53
     }
   },
   {
